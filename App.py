@@ -1,1 +1,1 @@
-print("Master branch version")
+print("Master and feature merged")
