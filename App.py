@@ -1,2 +1,1 @@
-print("Git is working")
-print("Hello World!" * 3)
+print("Master branch version")
