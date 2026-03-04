@@ -1,1 +1,1 @@
-print("Master and feature merge")
+print("Git + GitHub workflow")
