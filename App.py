@@ -1,1 +1,1 @@
-print("Master and feature merged")
+print("Master and feature merge")
